@@ -1,0 +1,8 @@
+[package]
+name = "ccl"
+version = "0.1.0"
+authors = ["Ian Morgan <ian.morgan@r3.com>"]
+edition = "2018"
+
+[dependencies]
+time = "0.1.12"
